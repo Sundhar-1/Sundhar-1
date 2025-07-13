@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Sundharesan
 
-<!--
-**Sundhar-1/Sundhar-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m a Fresher Front-End Developer passionate about building UI/UX rich websites.  
+💻 I work with HTML, CSS, JavaScript, and React.  
+🚀 Currently building my portfolio and real-world projects.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- HTML5 / CSS3 / JavaScript
+- React.js / Bootstrap
+- Git & GitHub
+- 🎨 UI/UX Design (Figma, wireframing, prototyping)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- 💌 Email: sundharsms309@gmail.com
+- 🌐 Portfolio: [yourportfolio.com](https://sundhar-1.github.io/portfolio/)
+- 💼 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/sundharesan-s-1a54b636b)
+- 🎨 Behance: [behance.net/yourprofile](https://www.behance.net/sundhar)
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sundharesan&show_icons=true&theme=radical)
+
+---
